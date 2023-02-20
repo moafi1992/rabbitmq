@@ -4,5 +4,4 @@ class Setting:
     user = "guest"
     password = "guest"
 
-
 setting = Setting()
